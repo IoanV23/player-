@@ -1,0 +1,41 @@
+  a {
+  text-decoration: none;
+  color: inherit;
+}
+.header{
+  background-color: #B3DCFD;
+  padding: 33px 0 32px;
+  color:#717171;
+}
+ul {
+  margin:0;
+  padding:0;
+  list-style: none;
+}
+.container{
+  max-widht: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+.nav {
+  display: flex;
+  justify-content: space-between ;
+  align-items:senter ;
+}
+.menu {
+  display: flex;
+}
+body {
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 400;
+  color: #0a0a0a
+}
+.menu-item {
+  padding-right: 30px;
+}
+  .menu-link {
+    font-size: 24px;
+    line-height: 29px;
+  }
